@@ -1,7 +1,7 @@
 # MilkBrotherss
  Game and DQN
-![Test Image 1](https://github.com/atidem/MilkBrotherss/blob/master/main.png =50x50)
-
+ 
+<img src="https://github.com/atidem/MilkBrotherss/blob/master/main.png" alt="alt text" width="100" height="100">
 
 
 Requirements:
