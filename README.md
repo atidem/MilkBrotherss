@@ -11,9 +11,7 @@ Numpy,
 Scikit-image.
 
 Game Designer : Kaan Karavar.
-
 Game Developer : Ceren Öner, Berra Ekmekcioğlu.
-
 AI Developer : Atakan Demir.
 
 Contact Us for H5 files : atidem08@gmail.com 
