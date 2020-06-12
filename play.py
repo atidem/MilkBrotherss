@@ -11,7 +11,6 @@ from keras.models import load_model
 import keras.backend as K
 import warnings
 warnings.filterwarnings("ignore")
-import matplotlib.pyplot as plt
 from PIL import Image 
 import winsound
 
