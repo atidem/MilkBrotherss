@@ -5,6 +5,8 @@
 
 
 Requirements:
+Unity, 
+Python 3.6, 
 ZeroMq, 
 Keras 2.3.1, 
 Numpy, 
